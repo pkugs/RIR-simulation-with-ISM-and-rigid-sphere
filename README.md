@@ -15,4 +15,4 @@ function TF = get_sphere_rir(rl,rs,rr,beta,fs,tf_len,mic_ang)
 %   tf_len: length of obtained RIR
 %   mic_ang: microphone array coordinate
 
-We can test it using test.m
+One can test it using test.m
